@@ -2,7 +2,7 @@
 👤 Meu Curriculum feito em markdown (.md)
 
 # Pablo Lucena
-Estudante de desenvolvimento Front-end e Back-end
+Designer e estudante de desenvolvimento Front-end e Back-end
 <br>
 <br>
 :house: São Paulo - SP
@@ -10,7 +10,7 @@ Estudante de desenvolvimento Front-end e Back-end
 <br>:envelope: pablodplucenahh@gmail.com
 <br>
 <br>
-Meu nome é Pablo Lucena, sou desenvolvedor apaixonado por lógica de programação, construir sistemas e resolver problemas. Adoro dançar e levar a vida com progresso.
+Meu nome é Pablo Lucena, sou desenvolvedor apaixonado por lógica de programação, construir sistemas e resolver problemas. Sou designer profissional e adoro dançar e levar a vida com progresso. 
 <br>
 ## Formação Acadêmica
 
@@ -39,6 +39,7 @@ Superior em Análise e Desenvolvimento de sistemas
 
 * Lógica de Programação
 * Inglês intermediário
+* Design gráfico
 
 ### Sistemas Operacionais
 
@@ -66,6 +67,12 @@ Superior em Análise e Desenvolvimento de sistemas
 
 * Git
 * GitHub
+
+### Softwares
+
+* Adobe Photoshop
+* Adobe Premiere Pro
+* Adobe After Effects
 
 ### Cursos Completos
 
