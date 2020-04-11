@@ -69,7 +69,7 @@ Superior em Análise e Desenvolvimento de sistemas
 
 ### Cursos Completos
 
-* SQL - Solo Learn (Certificado)
+* SQL - Solo Learn ([Certificado](certificados/SQLcert-1060-346425.jpg)
 * Java Script - Solo Learn (Certificado)
 * Python 3 - Solo Learn (Certificado)
 * CSS3 - Solo Learn (Certificado)
