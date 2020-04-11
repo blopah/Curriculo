@@ -10,7 +10,7 @@ Estudante de desenvolvimento Front-end e Back-end
 <br>:envelope: pablodplucenahh@gmail.com
 <br>
 <br>
-Meu nome é Pablo Lucena, sou desenvolvedor apaixonado por lógica de programação, construir sistemas e resolver problemas. Adoro dançar e levar a vida com progresso e felicidade.
+Meu nome é Pablo Lucena, sou desenvolvedor apaixonado por lógica de programação, construir sistemas e resolver problemas. Adoro dançar e levar a vida com progresso.
 <br>
 ## Formação Acadêmica
 
@@ -69,11 +69,12 @@ Superior em Análise e Desenvolvimento de sistemas
 
 ### Cursos Completos
 
-* SQL - Solo Learn ([Certificado](certificados/SQLcert-1060-346425.jpg)
-* Java Script - Solo Learn (Certificado)
-* Python 3 - Solo Learn (Certificado)
+* HTML - Solo Learn ([Certificado](certificados/HTMLcert-1014-346425.jpg))
 * CSS3 - Solo Learn (Certificado)
-* **Python 3 - Curso em vídeo (Certificado)**
+* Java Script - Solo Learn ([Certificado](certificados/JScert-1024-346425.jpg))
+* SQL - Solo Learn ([Certificado](certificados/SQLcert-1060-346425.jpg))
+* Python 3 - Solo Learn ([Certificado](certificados/PYTHONcert-1073-346425.jpg))
+* **Python 3 - Curso em vídeo ([Certificado](certificados/PYTHONCertificado-Python-Mundo-1-img.jpg))**
 
 ## Linkedin
 * [Pablo Lucena](https://www.linkedin.com/in/pablo-lucena/)
