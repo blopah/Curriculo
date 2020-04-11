@@ -4,9 +4,11 @@
 # Pablo Lucena
 Estudante de desenvolvimento Front-end e Back-end
 <br>
+<br>
 :house: São Paulo - SP
 <br>:iphone: (11)94809-3264
 <br>:envelope: pablodplucenahh@gmail.com
+<br>
 <br>
 Meu nome é Pablo Lucena, sou desenvolvedor apaixonado por lógica de programação, construir sistemas e resolver problemas. Adoro dançar e levar a vida com progresso e felicidade.
 <br>
@@ -24,13 +26,13 @@ Programador de indicadores gráficos
 * Desenvolvimento de indicadores gráficos em Pine Script
 * Desenvolvimento de bots traders em Pine Script
 
-**Autônomo**
+**Lojas Marcom**
 Assistente de Web Designer
 <br>10/2014 - 01/2016 (1 ano e 4 meses)
 * Planejamento de campanhas e desenvolvimento de e-mail marketing
 * Tratamento de imagens
 * Hospedagem de imagens no site
-<br>
+
 ## Conhecimentos
 
 ### Gerais
