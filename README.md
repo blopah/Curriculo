@@ -73,7 +73,7 @@ Superior em Análise e Desenvolvimento de sistemas
 * Java Script - Solo Learn (Certificado)
 * Python 3 - Solo Learn (Certificado)
 * CSS3 - Solo Learn (Certificado)
-* ***Python 3 - Curso em vídeo (Certificado)***
+* **Python 3 - Curso em vídeo (Certificado)**
 
 ## Linkedin
 * [Pablo Lucena](https://www.linkedin.com/in/pablo-lucena/)
