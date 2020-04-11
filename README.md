@@ -21,13 +21,13 @@ Superior em Análise e Desenvolvimento de sistemas
 ## Experiência Profissional
 
 **Autônomo**
-Programador de indicadores gráficos
+**Programador de indicadores gráficos**
 <br>04/2017 - 10/2019 (2 anos e 2 meses)
 * Desenvolvimento de indicadores gráficos em Pine Script
 * Desenvolvimento de bots traders em Pine Script
 
 **Lojas Marcom**
-Assistente de Web Designer
+**Assistente de Web Designer**
 <br>10/2014 - 01/2016 (1 ano e 4 meses)
 * Planejamento de campanhas e desenvolvimento de e-mail marketing
 * Tratamento de imagens
@@ -49,12 +49,12 @@ Assistente de Web Designer
 
 * HTML5
   * Markdown
-*CSS3
-*JavaScript
+* CSS3
+* JavaScript
 
 ### Linguagens de Programação
 
-* Python
+* **Python**
 * Pine Script
 * JavaScript
 
@@ -73,7 +73,7 @@ Assistente de Web Designer
 * Java Script - Solo Learn (Certificado)
 * Python 3 - Solo Learn (Certificado)
 * CSS3 - Solo Learn (Certificado)
-* Python 3 - Curso em vídeo (Certificado)
+* ***Python 3 - Curso em vídeo (Certificado)***
 
 ## Linkedin
 * [Pablo Lucena](https://www.linkedin.com/in/pablo-lucena/)
