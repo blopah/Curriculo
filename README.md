@@ -57,7 +57,7 @@ Meu nome é Pablo Lucena, sou desenvolvedor web apaixonado por lógica de progra
 * HTML5
   * Markdown
 * CSS3
-  *Bootstrap
+  * Bootstrap
 * JavaScript
   *React
 
