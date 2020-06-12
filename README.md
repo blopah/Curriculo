@@ -10,24 +10,30 @@ Designer e estudante de desenvolvimento Front-end e Back-end
 <br>:envelope: pablodplucenahh@gmail.com
 <br>
 <br>
-Meu nome é Pablo Lucena, sou desenvolvedor apaixonado por lógica de programação, construir sistemas e resolver problemas. Sou designer profissional e adoro dançar e levar a vida com progresso. 
+Meu nome é Pablo Lucena, sou desenvolvedor web apaixonado por lógica de programação, construir sistemas e resolver problemas. Sou designer profissional e adoro dançar e levar a vida com progresso. 
 <br>
 ## Formação Acadêmica
 
 Universidade Cruzeiro do Sul
-Superior em Análise e Desenvolvimento de sistemas 
+<br>Superior em Análise e Desenvolvimento de sistemas 
 <br>Conclusão em 2021
 <br>
+
+Digital House Brasil
+<br>Front-End Development 
+<br>Conclusão em 2020
+<br>
+
 ## Experiência Profissional
 
 **Autônomo**
-**Programador de indicadores gráficos**
+<br> **Programador de indicadores gráficos**
 <br>04/2017 - 10/2019 (2 anos e 2 meses)
 * Desenvolvimento de indicadores gráficos em Pine Script
 * Desenvolvimento de bots traders em Pine Script
 
 **Lojas Marcom**
-**Assistente de Web Designer**
+<br> **Assistente de Web Designer**
 <br>10/2014 - 01/2016 (1 ano e 4 meses)
 * Planejamento de campanhas e desenvolvimento de e-mail marketing
 * Tratamento de imagens
