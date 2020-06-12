@@ -14,12 +14,12 @@ Meu nome é Pablo Lucena, sou desenvolvedor web apaixonado por lógica de progra
 <br>
 ## Formação Acadêmica
 
-Universidade Cruzeiro do Sul
+**Universidade Cruzeiro do Sul**
 <br>Superior em Análise e Desenvolvimento de sistemas 
 <br>Conclusão em 2021
 <br>
 
-Digital House Brasil
+**Digital House Brasil**
 <br>Front-End Development 
 <br>Conclusão em 2020
 <br>
