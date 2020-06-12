@@ -57,7 +57,12 @@ Meu nome é Pablo Lucena, sou desenvolvedor web apaixonado por lógica de progra
 * HTML5
   * Markdown
 * CSS3
+  *Bootstrap
 * JavaScript
+  *React
+
+### Back-End
+* Django
 
 ### Linguagens de Programação
 
@@ -67,7 +72,9 @@ Meu nome é Pablo Lucena, sou desenvolvedor web apaixonado por lógica de progra
 
 ### Banco de Dados
 
+* PostgreeSQL
 * SQL
+* SQLite
 
 ### Sistemas de controle de versão
 
@@ -88,6 +95,8 @@ Meu nome é Pablo Lucena, sou desenvolvedor web apaixonado por lógica de progra
 * SQL - Solo Learn ([Certificado](certificados/SQLcert-1060-346425.jpg))
 * Python 3 - Solo Learn ([Certificado](certificados/PYTHONcert-1073-346425.jpg))
 * **Python 3 - Curso em vídeo ([Certificado](certificados/PYTHONCertificado-Python-Mundo-1-img.jpg))**
+* Django 2.x - Udemy ([Certificado](certificados/DjangoUdemy.jpg))
+* OmniStack11 - Rocketseat ([Certificado](certificados/SemanaOministack.jpg))
 
 ## Linkedin
 * [Pablo Lucena](https://www.linkedin.com/in/pablo-lucena/)
