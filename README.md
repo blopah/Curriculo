@@ -19,10 +19,23 @@ Meu nome é Pablo Lucena, sou desenvolvedor web apaixonado por lógica de progra
 <br>Conclusão em 2021
 <br>
 
+## Cursando
+
 **Digital House Brasil**
 <br>Front-End Development 
 <br>Conclusão em 2020
 <br>
+
+### Cursos Completos
+
+* HTML - Solo Learn ([Certificado](certificados/HTMLcert-1014-346425.jpg))
+* CSS3 - Solo Learn (Certificado)
+* Java Script - Solo Learn ([Certificado](certificados/JScert-1024-346425.jpg))
+* SQL - Solo Learn ([Certificado](certificados/SQLcert-1060-346425.jpg))
+* Python 3 - Solo Learn ([Certificado](certificados/PYTHONcert-1073-346425.jpg))
+* **Python 3 - Curso em vídeo ([Certificado](certificados/PYTHONCertificado-Python-Mundo-1-img.jpg))**
+* Django 2.x - Udemy ([Certificado](certificados/DjangoUdemy.jpg))
+* OmniStack11 - Rocketseat ([Certificado](certificados/SemanaOministack.jpg))
 
 ## Experiência Profissional
 
@@ -86,17 +99,6 @@ Meu nome é Pablo Lucena, sou desenvolvedor web apaixonado por lógica de progra
 * Adobe Photoshop
 * Adobe Premiere Pro
 * Adobe After Effects
-
-### Cursos Completos
-
-* HTML - Solo Learn ([Certificado](certificados/HTMLcert-1014-346425.jpg))
-* CSS3 - Solo Learn (Certificado)
-* Java Script - Solo Learn ([Certificado](certificados/JScert-1024-346425.jpg))
-* SQL - Solo Learn ([Certificado](certificados/SQLcert-1060-346425.jpg))
-* Python 3 - Solo Learn ([Certificado](certificados/PYTHONcert-1073-346425.jpg))
-* **Python 3 - Curso em vídeo ([Certificado](certificados/PYTHONCertificado-Python-Mundo-1-img.jpg))**
-* Django 2.x - Udemy ([Certificado](certificados/DjangoUdemy.jpg))
-* OmniStack11 - Rocketseat ([Certificado](certificados/SemanaOministack.jpg))
 
 ## Linkedin
 * [Pablo Lucena](https://www.linkedin.com/in/pablo-lucena/)
