@@ -5,7 +5,7 @@
 Designer e estudante de desenvolvimento Front-end e Back-end
 <br>
 <br>
-:house: São Paulo - SP
+:house: Embu das Artes - SP
 <br>:iphone: (11)94809-3264
 <br>:envelope: pablodplucenahh@gmail.com
 <br>
