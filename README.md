@@ -19,7 +19,7 @@ Meu nome é Pablo Lucena, sou desenvolvedor web apaixonado por lógica de progra
 <br>Conclusão em 2021
 <br>
 
-## Cursos 
+## Cursos e Certificados
 
 * Front-End Development - Digital House Brasil (Cursando)
   * Conclusão em 2020
@@ -31,6 +31,8 @@ Meu nome é Pablo Lucena, sou desenvolvedor web apaixonado por lógica de progra
 * **Python 3 - Curso em vídeo ([Certificado](certificados/PYTHONCertificado-Python-Mundo-1-img.jpg))**
 * Django 2.x - Udemy ([Certificado](certificados/DjangoUdemy.jpg))
 * OmniStack11 - Rocketseat ([Certificado](certificados/SemanaOministack.jpg))
+* Scrum Foundation Professional Certificate (SFPC) ([Certificado](certificados/ScrumCertificate.pdf))
+
 
 ## Experiência Profissional
 
