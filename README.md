@@ -23,8 +23,7 @@ Meu nome é Pablo Lucena, sou desenvolvedor web apaixonado por lógica de progra
 
 ## Cursos e Certificados
 
-* Front-End Development - Digital House Brasil (Cursando)
-  * Conclusão em 2020
+* Front-End Development - Digital House Brasil ([Certificado](certificados/HTMLcert-1014-346425.jpg))
 * HTML - Solo Learn ([Certificado](certificados/HTMLcert-1014-346425.jpg))
 * CSS3 - Solo Learn (Certificado)
 * Java Script - Solo Learn ([Certificado](certificados/JScert-1024-346425.jpg))
