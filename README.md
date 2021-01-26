@@ -62,6 +62,7 @@ Meu nome é Pablo Lucena, sou desenvolvedor web apaixonado por lógica de progra
 
 * Windows
 * Mac
+* Linux
 
 ### Front-End
 
@@ -84,7 +85,7 @@ Meu nome é Pablo Lucena, sou desenvolvedor web apaixonado por lógica de progra
 ### Banco de Dados
 
 * PostgreeSQL
-* SQL
+* MySQL
 * SQLite
 
 ### Sistemas de controle de versão
