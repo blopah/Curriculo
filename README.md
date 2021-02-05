@@ -2,9 +2,8 @@
 👤 Meu Curriculum feito em markdown (.md)
 
 # Pablo Lucena
-Desenvolvedor Front End <br>
-Estudando Back-end <br>
-Cursando Análise e Desenvolvimento de Sistemas
+Desenvolvedor Full Stack <br>
+Cursando Análise e Desenvolvimento de Sistemas [75%]
 <br>
 <br>
 :house: Embu das Artes - SP
