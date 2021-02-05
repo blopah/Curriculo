@@ -32,6 +32,7 @@ Meu nome é Pablo Lucena, sou desenvolvedor web apaixonado por lógica de progra
 * Django 2.x - Udemy ([Certificado](certificados/DjangoUdemy.jpg))
 * OmniStack11 - Rocketseat ([Certificado](certificados/SemanaOministack.jpg))
 * Scrum Foundation Professional Certificate (SFPC) ([Certificado](certificados/ScrumCertificate.pdf))
+* DoWhile - Rocketseat ([Certificado](certificados/dowhile.pdf))
 
 
 ## Experiência Profissional
