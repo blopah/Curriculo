@@ -11,7 +11,7 @@ Cursando Análise e Desenvolvimento de Sistemas [75%]
 <br>:envelope: pablodplucenahh@gmail.com
 <br>
 <br>
-Meu nome é Pablo Lucena, sou desenvolvedor web apaixonado por lógica de programação, construir sistemas e resolver problemas. Sou designer profissional e adoro dançar e levar a vida com progresso. 
+Meu nome é Pablo Lucena, sou desenvolvedor web apaixonado por lógica de programação, construir sistemas e resolver problemas. Sou designer profissional e adoro levar a vida com progresso. 
 <br>
 ## Formação Acadêmica
 
@@ -22,7 +22,7 @@ Meu nome é Pablo Lucena, sou desenvolvedor web apaixonado por lógica de progra
 
 ## Cursos e Certificados
 
-* Front-End Development - Digital House Brasil ([Certificado](certificados/HTMLcert-1014-346425.jpg))
+* Front-End Development - Digital House Brasil ([Certificado](certificados/FrontEnd-Digital-House.pdf))
 * HTML - Solo Learn ([Certificado](certificados/HTMLcert-1014-346425.jpg))
 * CSS3 - Solo Learn (Certificado)
 * Java Script - Solo Learn ([Certificado](certificados/JScert-1024-346425.jpg))
