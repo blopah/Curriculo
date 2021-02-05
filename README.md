@@ -24,7 +24,7 @@ Meu nome é Pablo Lucena, sou desenvolvedor web apaixonado por lógica de progra
 
 * Front-End Development - Digital House Brasil ([Certificado](certificados/FrontEnd-Digital-House.pdf))
 * HTML - Solo Learn ([Certificado](certificados/HTMLcert-1014-346425.jpg))
-* CSS3 - Solo Learn (Certificado)
+* CSS3 - Solo Learn ([Certificado](certificados/HTMLcert-1014-346425.jpg))
 * Java Script - Solo Learn ([Certificado](certificados/JScert-1024-346425.jpg))
 * SQL - Solo Learn ([Certificado](certificados/SQLcert-1060-346425.jpg))
 * Python 3 - Solo Learn ([Certificado](certificados/PYTHONcert-1073-346425.jpg))
