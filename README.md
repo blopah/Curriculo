@@ -12,7 +12,7 @@ Cursando Análise e Desenvolvimento de Sistemas [75%]
 <br>Linkedin - [Pablo Lucena](https://www.linkedin.com/in/pablo-lucena/)
 <br>
 <br>
-Meu nome é Pablo Lucena, sou desenvolvedor web apaixonado por lógica de programação, construir sistemas e resolver problemas. Sou designer profissional e adoro levar a vida com progresso. 
+Meu nome é Pablo Lucena, sou desenvolvedor web apaixonado por lógica de programação, construir sistemas e resolver problemas. Sou designer profissional e busco levar a vida com progresso. 
 <br>
 ## Formação Acadêmica
 
