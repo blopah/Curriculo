@@ -9,8 +9,7 @@ Cursando Análise e Desenvolvimento de Sistemas [75%]
 :house: Embu das Artes - SP
 <br>:iphone: (11)94809-3264
 <br>:envelope: pablodplucenahh@gmail.com
-<br>
-* [Pablo Lucena](https://www.linkedin.com/in/pablo-lucena/)
+<br>Linkedin - [Pablo Lucena](https://www.linkedin.com/in/pablo-lucena/)
 <br>
 <br>
 Meu nome é Pablo Lucena, sou desenvolvedor web apaixonado por lógica de programação, construir sistemas e resolver problemas. Sou designer profissional e adoro levar a vida com progresso. 
