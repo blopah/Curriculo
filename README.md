@@ -58,7 +58,7 @@ Meu nome é Pablo Lucena, sou desenvolvedor web apaixonado por lógica de progra
 * Back test de estratégias
 
 **Lojas Marcom**
-<br> **Assistente de Web Designer**
+**Assistente de Web Designer**
 <br>10/2014 - 01/2016 (1 ano e 4 meses)
 * Planejamento de campanhas e desenvolvimento de e-mail marketing
 * Tratamento de imagens
@@ -80,19 +80,20 @@ Meu nome é Pablo Lucena, sou desenvolvedor web apaixonado por lógica de progra
 
 ### Front-End
 
-* HTML5
-  * Markdown
-* CSS3
-  * Bootstrap
 * JavaScript
   * React
+* CSS3
+  * Bootstrap
+* HTML5
+* Markdown
 
 ### Back-End
 * Django
+* Node
 
 ### Linguagens de Programação
 
-* **Python**
+* Python
 * Pine Script
 * JavaScript
 
@@ -106,6 +107,7 @@ Meu nome é Pablo Lucena, sou desenvolvedor web apaixonado por lógica de progra
 
 * Git
 * GitHub
+* BitBucket
 
 ### Softwares
 
