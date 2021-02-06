@@ -50,7 +50,7 @@ Meu nome é Pablo Lucena, sou desenvolvedor web apaixonado por lógica de progra
 * Desenvolvimento de bots traders integrados com a API das corretoras
 * Back test de estratégias
 
-## Autônomo
+### Autônomo
 **Programador de indicadores gráficos**
 <br>04/2017 - 10/2019 (2 anos e 2 meses)
 * Desenvolvimento de indicadores gráficos em Pine Script
