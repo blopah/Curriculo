@@ -38,7 +38,7 @@ Meu nome é Pablo Lucena, sou desenvolvedor web apaixonado por lógica de progra
 ## Experiência Profissional
 
 ### Icomm Group
-<br> **Desenvolvedor Front End**
+**Desenvolvedor Front End**
 <br>08/2020 - até o momento
 * Desenvolvimento de indicadores gráficos em Pine Script
 * Desenvolvimento de bots traders integrados com a API das corretoras
